@@ -1,0 +1,22 @@
+{
+    "short_name": "Favoriter",
+    "name": "Mina Favoriter",
+    "icons": [
+      {
+        "src": "/images/icon-100x100.png",
+        "sizes": "100x100",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/icon-100x1002.png",
+        "sizes": "100x100",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6200ee"
+  }
+  
+  
